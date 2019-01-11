@@ -1,0 +1,9 @@
+How to use ?
+	1. make
+	2. (sudo) ./hw3 [device] [.pcap file]
+		ex. sudo ./hw3 ens33 XXXX.pcap
+	3.make clean
+Function
+	This program can dispatch packets in .pcap file 
+	and show time and the start/destination of address & port
+
